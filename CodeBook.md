@@ -1,4 +1,4 @@
-FilGetting and Cleaning Data - Code Book
+Getting and Cleaning Data - Code Book
 ==========================================
 This assignment focuses in getting raw data and tidying up for readers to understand, explore and perform analysis on the data.
 
@@ -19,4 +19,4 @@ Here are the steps performed to tidy up the data:
 - Calculate average of each variable for each activity and each subject into an independant data frame
 - Write the second data set into a file "SecondTidyDataSet.txt"
   
- For implementation details please see the [run_analysis.r] () script.
+ For implementation details please see the [run_analysis.r](https://github.com/pacsun/Coursera/blob/master/run_analysis.R) script.
